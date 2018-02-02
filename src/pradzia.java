@@ -23,6 +23,7 @@ public class Pradzia {
         }
         int length = name.length();
 
+        s
         Pradzia pradzia = new Pradzia();
         int countChar = pradzia.countChar(name);
 
